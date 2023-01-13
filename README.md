@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Heeya Shah
 - 🌱 I’m currently studying biomedical engineering at the University of Waterloo ...
 - 👀 I’m interested in developing robust and scalable software solutions for the healthcare industry using a variety of programming languages and technologies
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at heeyashah7@gmail.com
 
 <!---
