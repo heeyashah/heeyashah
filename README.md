@@ -11,7 +11,7 @@
 
 **previously:**
 - AI agents & full-stack development @ **Revvity**
-- wearable haptics & rehabilitation robotics @ **University of Waterloo**
+- wearable haptics & robotics @ **Neuromechanics & Assistive Robotics Lab**
 - medical imaging & computer vision @ **CASCINATION**
 
 ---
