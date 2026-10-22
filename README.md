@@ -1,7 +1,7 @@
 
 ### hi, i'm heeya! 👋
 
-- biomedical engineering @ [University of Waterloo](https://uwaterloo.ca/) — medical AI specialization
+- biomedical engineering @ [University of Waterloo](https://uwaterloo.ca/)
 - graduating april 2027 · interested in **medical devices, robotics, wearables & machine learning**
 
 ---
